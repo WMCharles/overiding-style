@@ -1,0 +1,37 @@
+body {
+    color: red;
+}
+
+h1 {
+    color: blue;
+}
+
+.description {
+    color: green;
+}
+
+#short-note {
+    color: cyan;
+}
+
+/* a:link {
+    background-color: lightgreen;
+}
+
+a:hover {
+    padding: 20px;
+    font-size: 30px;
+    background-color: bisque;
+    font-family: monospace;
+    /* text-decoration: double; */
+}
+
+a:visited {
+    color: black;
+    background-color: brown;
+    text-decoration: none;
+} */
+
+header#clear:hover {
+
+}
